@@ -10,6 +10,7 @@ public class TestClass {
 
         System.out.println("Usages of git diff in unstage area");
         System.out.println("Staged area change track-git diff staged!");
+        System.out.println("After commit diff- git diff HEAD");
 
     }
 }
