@@ -8,5 +8,8 @@ public class TestClass {
         ZoneDateTime zdt = new ZoneDateTime();
         System.out.println("Current time is :"+ ZoneDateTime.now());
 
+        System.out.println("Usages of git diff in unstage area");
+        System.out.println("Staged area change track-git diff staged!");
+
     }
 }
