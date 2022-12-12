@@ -21,5 +21,9 @@ public class TestClass {
 
         System.out.println("cached deleted - git rm --cached file_name");
 
+        Login login = new Login("Shashank","123S");
+        System.out.println("Login branch "+ login.getName());
+
+
     }
 }
