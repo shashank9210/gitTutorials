@@ -19,5 +19,7 @@ public class TestClass {
         System.out.println("last 2 comit - git log -p -2");
         System.out.println("To check all modified files - git log --stat");
 
+        System.out.println("cached deleted - git rm --cached file_name");
+
     }
 }
