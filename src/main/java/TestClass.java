@@ -12,5 +12,12 @@ public class TestClass {
         System.out.println("Staged area change track-git diff staged!");
         System.out.println("After commit diff- git diff HEAD");
 
+
+        System.out.println("Git Show - to get commit details");
+
+        System.out.println("git log - to check all commits");
+        System.out.println("last 2 comit - git log -p -2");
+        System.out.println("To check all modified files - git log --stat");
+
     }
 }
